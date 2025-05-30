@@ -1,0 +1,6 @@
+/* Desktop - 1 */
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0;
+top: 0;
